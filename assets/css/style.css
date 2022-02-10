@@ -68,13 +68,12 @@ a:hover {
   background: var(--color-05);
 }
 
-::-moz-selection {
-  /* Code for Firefox */
+/* ::-moz-selection {
   color: var(--color-01);
   background: var(--color-05);
-}
+} */
 
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
   width: 10px;
 }
 
@@ -91,7 +90,7 @@ a:hover {
 
 ::-webkit-scrollbar-thumb:hover {
   opacity: 0.9;
-}
+} */
 
 .header h1 {
   font-family: var(--font-01);
@@ -119,7 +118,6 @@ a:hover {
 }
 
 .text-content > h2 {
-  word-break: keep-all;
   font-size: 6.4rem;
   font-weight: 700;
   letter-spacing: -0.35rem;
@@ -128,7 +126,6 @@ a:hover {
 
 .text-content > p {
   max-width: 400px;
-  word-break: break-word;
   padding: 36px 0 64px 0;
   font-size: 2.4rem;
   color: var(--color-03);
