@@ -1,4 +1,5 @@
-<h1 align="center">404 page not found error - Responsive page</h1>
+<h1 align="center"><img src="assets/images/Scarecrow.png" height="32" alt="Scarrow"></img> 404 error - Responsive page
+</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
