@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://funnyzinho.github.io/404-not-found-page/">
+    <a href="https://https://devpedrom.github.io/404-not-found-page/">
       Demo
     </a>
     <span> | </span>
