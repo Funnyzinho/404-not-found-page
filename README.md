@@ -58,8 +58,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.github.com/funnyzinho">
-        <img src="https://www.github.com/funnyzinho.png" width="100px;" alt="Foto do Pedro Mendes no GitHub"/><br>
+      <a href="https://www.github.com/devpedrom">
+        <img src="https://www.github.com/devpedrom.png" width="100px;" alt="Foto do Pedro Mendes no GitHub"/><br>
         <sub>
           <b>Pedro Mendes</b>
         </sub>
